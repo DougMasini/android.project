@@ -1,3 +1,2 @@
-INDEX VERSION 1.126+C:\Soft Eng Projects\workspace\.metadata\.plugins\org.eclipse.jdt.core
-3382724990.index
+INDEX VERSION 1.126+C:\AndroidProjects\workspace\.metadata\.plugins\org.eclipse.jdt.core
 3623470473.index
